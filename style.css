@@ -1,0 +1,17 @@
+
+th{
+    border: solid blue;
+}
+.days {
+    background-color: yellow;
+   
+}
+.breakfast {
+    background-color: aquamarine;
+}
+.lunch {
+    background-color: coral;
+}
+.dinner {
+    background-color: darkolivegreen;
+}
